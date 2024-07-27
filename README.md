@@ -1,5 +1,5 @@
 # Тестовое задание на позицию Unity Developer в компанию Atlantis
-[Ознакомиться с тестовым заданием](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/TestTask.md)
+[Ознакомиться с тестовым заданием](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/TestTaskAtlantis.md)
 
 ![Alt Text](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/Movie_001.gif)
 
