@@ -23,6 +23,8 @@
 
 [com.atteneder.gltfast](https://github.com/atteneder/glTFast.git)  
 
+[com.unity.xr.arfoundation](https://github.com/Unity-Technologies/arfoundation-samples)  
+
 ## Мои контакты
 [Telegram](https://t.me/Rutherfordum)   
 [TgChanel](https://t.me/Pro_XR)  
