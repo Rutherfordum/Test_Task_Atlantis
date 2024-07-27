@@ -25,7 +25,8 @@ namespace TestTaskAtlantis.Services.InternetAccess
         {
             HasInternetAccess = new ReactiveProperty<bool>(true);
             _disposables = new CompositeDisposable();
-            Observable.Interval(TimeSpan.FromSeconds(1)).Subscribe(OnCheckInternetAccess).AddTo(_disposables);
+            Observable.Interval(TimeSpan.FromSeconds(_internetAccessConfig.Interval))
+                .Subscribe(OnCheckInternetAccess).AddTo(_disposables);
         }
 
         public void Dispose()
