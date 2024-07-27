@@ -1,7 +1,7 @@
 # Тестовое задание на позицию Unity Developer в компанию Atlantis
 [Ознакомиться с тестовым заданием](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/TestTaskAtlantis.md)
 
-![Alt Text](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/Movie_001.gif)
+![Alt Text](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/Movie_001.gif)
 
 ## Описание проекта  
 `WebRequestService` - сервис отвечает за загрузку данных с интернета, поддерживает загрузку байт массива и текстуры  
