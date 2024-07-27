@@ -1,0 +1,16 @@
+{
+    "name": "TestTaskAtlantis.Services.ARSupport.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1f7e273bb070121488965c6ad2143c3f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+    "name": "TestTaskAtlantis.Services.ARSupport.Test",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "UniTask",
+        "UniRx",
+        "TestTaskAtlantis.Utils",
+        "TestTaskAtlantis.Services.ARSupport",
+        "TestTaskAtlantis.Services.ARSupport.View"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

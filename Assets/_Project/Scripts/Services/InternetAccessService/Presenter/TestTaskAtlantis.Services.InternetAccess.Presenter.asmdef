@@ -1,0 +1,21 @@
+{
+    "name": "TestTaskAtlantis.Services.InternetAccess.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:1f7e273bb070121488965c6ad2143c3f",
+        "GUID:a439da418a8b34d4da6f32157731bb28",
+        "GUID:1e8121b11250eb74ea71b36478359ef5",
+        "GUID:ed97cf7956ab0f244b980b409b943f7f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

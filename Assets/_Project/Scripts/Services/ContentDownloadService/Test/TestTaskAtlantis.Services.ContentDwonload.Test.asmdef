@@ -1,0 +1,29 @@
+{
+    "name": "TestTaskAtlantis.Services.ContentDwonload.Test",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "UniTask",
+        "UniRx",
+        "TestTaskAtlantis.Utils",
+        "TestTaskAtlantis.Services.WebRequest",
+        "TestTaskAtlantis.Services.ContentDownload.Configuration"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

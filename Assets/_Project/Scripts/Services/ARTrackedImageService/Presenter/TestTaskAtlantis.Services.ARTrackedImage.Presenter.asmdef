@@ -1,0 +1,24 @@
+{
+    "name": "TestTaskAtlantis.Services.ARTrackedImage.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:a9420e37d7990b54abdef6688edbe313",
+        "GUID:92703082f92b41ba80f0d6912de66115",
+        "GUID:1f7e273bb070121488965c6ad2143c3f",
+        "GUID:b5a9c76e831c7654fad0380125bec734",
+        "GUID:dc5809bf2896add44a63fa497470cc88",
+        "GUID:6c42b0b110c67194d959e64dbe3ffb64",
+        "GUID:31ff4fa6482150147853e77e421cc2d7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
