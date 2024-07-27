@@ -3,6 +3,8 @@
 
 ![Alt Text](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/Movie_001.gif)
 
+[Ссылка](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/TestTaskAtlantis.zip) на запакованный `*apk` файл
+
 ## Описание проекта  
 `WebRequestService` - сервис отвечает за загрузку данных с интернета, поддерживает загрузку байт массива и текстуры  
 `InternetAccessService` - отвечает за проверку доступа в интернет, в конфиге можно настроить шаг проверки и ссылку для проверки  
