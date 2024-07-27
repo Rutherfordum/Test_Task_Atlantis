@@ -4,29 +4,24 @@
 ![Alt Text](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/Movie_001.gif)
 
 ## Описание проекта  
-`UserInputService` - сервис отвечает за считывание пользовательского ввода, WASD на основе новой системы ввода в Unity new InputSystem  
-`ScreenSizeService` - отвечает за границы экрана, добавлен в конфиг смещение границ экрана для удобства настройки  
-`PlayerMoveService` - отвечает за движение игрока  
-`AutoShootService` - отвечает за автоматическую стрельбу  
-`EnemySpawnerService` - отвечает за появление врагов, появление реализовано через абстрактную фабрику, если вдруг надо будет использовать группу обьектов, причем кол-во врагов спавниться сразу все, потом просто вклюаем с переодичностью указаной в конфиге  
-`PlayerDistanceWatcherEnemyService` - отвечает за дальность определения врагов, если враг в зоне видимости то стреляем и наоборот  
-`EnemyWatcherService` - сервис отвечает за слежением за всех врагов на сцене, чтобы быть уверенным что всех врагов мы уничтожили  
+`WebRequestService` - сервис отвечает за загрузку данных с интернета, поддерживает загрузку байт массива и текстуры  
+`InternetAccessService` - отвечает за проверку доступа в интернет, в конфиге можно настроить шаг проверки и ссылку для проверки  
+`GltfImportService` - отвечает за загрузку на сцену 3Д модели Glb  
+`ContentDownloadService` - отвечает за загрузку контента (объединяет в себе `WebRequestService`, `InternetAccessService`)  
+`ARTrackedImageService` - отвечает за режим детектирования картинки и визуализации данных поверх  
+`ARSupportService` - отвечает за проверку поддержки устройством режима дополненной реальности 
 
-Все конфигурационные файлы для игры находяться по пути `Assets/_Project/Resources`  
-Все префабы врагов так же находяться по пути `Assets/_Project/Resources/Enemies`  
-Все префабы пуль находяться `Assets/_Project/Resources/Bullets`
-
-Рекомендую выбрать в окне `Game` режим `Simulator`
+Все конфигурационные файлы находяться по пути `Assets/_Project/Resources/Configurations`  
+Все префабы находяться по пути `Assets/_Project/Resources`  
 
 ## Инструменты используемые в проекте
 [com.svermeulen.extenject](https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/Source#9.3.0) 
 
 [com.cysharp.unitask](https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask) 
 
-[dotween.demigiant](https://dotween.demigiant.com/)
+[UniRX](https://github.com/neuecc/UniRx)  
 
-## Ассеты используемы в проекте
-[Simple 2D Platformer Assets Pack](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)
+[com.atteneder.gltfast](https://github.com/atteneder/glTFast.git)  
 
 ## Мои контакты
 [Telegram](https://t.me/Rutherfordum)   
