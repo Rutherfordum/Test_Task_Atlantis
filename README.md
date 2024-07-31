@@ -3,6 +3,8 @@
 
 ![Alt Text](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/Movie_001.gif)
 
+<img src="https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/Movie_001.gif" data-canonical-src="https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/Movie_001.gif" width="200" height="400" />
+
 [Ссылка](https://github.com/Rutherfordum/Test_Task_Atlantis/blob/main/Resources/TestTaskAtlantis.zip) на запакованный `*apk` файл
 
 ## Описание проекта  
